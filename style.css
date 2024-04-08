@@ -1,0 +1,32 @@
+/* h1{
+    width: 200px;
+    height: 200px;
+    background-color: rebeccapurple;
+    line-break: anywhere;
+    margin: 0 auto 0 auto;
+    padding-top: 100px;
+    padding-left: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin: 300px 0 0 300px;
+    padding: 100px;
+    border-style: outset;
+    border-width: 10px;
+    border-color: black;
+    border: 10px solid green;
+    border-right: 100px solid black;
+    border-left: 100px solid black;
+    border-bottom: 50px solid black;
+    outline: 20px solid blueviolet;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 80px;
+    border-radius: 50px 0 80px 90px; 
+    box-shadow: 0px 20px 0px -10px red,
+    0px -20px 0px -10px blue;
+} */
+
+h1{
+    font-family: sans-serif;
+    font-size: 4rem;
+    text-shadow: 5px 0px 2px red;
+}

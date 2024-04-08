@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    height: 100vh;
+    width: 100vw;
+    padding: 50;
+    background-color: black;
+    background-image: url(mascjordanli.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 50% 50%;
+    background-position: 100% 100%;
+}
